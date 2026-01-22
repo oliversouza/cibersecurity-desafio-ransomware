@@ -1,4 +1,4 @@
-# cibersecurity-desafio-phishing
+# cibersecurity-desafio-ransomware
 Criação de um Ransomware
 =======
 # Desafio de Phishing para captura de senhas do Facebook
