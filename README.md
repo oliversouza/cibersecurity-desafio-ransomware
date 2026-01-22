@@ -1,7 +1,4 @@
-# cibersecurity-desafio-ransomware
-Criação de um Ransomware
-=======
-# Desafio de Phishing para captura de senhas do Facebook
+# Desafio de criação de um ransomware
 
 ## Ferramentas
 * **Python**
